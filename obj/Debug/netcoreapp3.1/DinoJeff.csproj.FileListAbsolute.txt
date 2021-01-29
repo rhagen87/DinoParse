@@ -1,0 +1,16 @@
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoJeff.exe
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoJeff.csprojAssemblyReference.cache
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoJeff.AssemblyInfoInputs.cache
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoJeff.AssemblyInfo.cs
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoJeff.deps.json
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoJeff.runtimeconfig.json
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoJeff.runtimeconfig.dev.json
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoJeff.dll
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoJeff.pdb
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoJeff.csproj.CopyComplete
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoJeff.dll
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoJeff.pdb
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoJeff.genruntimeconfig.cache
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoJeff.csproj.CoreCompileInputs.cache
