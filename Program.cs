@@ -10,7 +10,7 @@ namespace DinoParse
         {
             Console.WriteLine("Enter the name of a Wikipedia page to find related links:");
             string userSearch = Console.ReadLine();
-            string searchLink = "https://en.wikipedia.org/w/api.php?action=parse&format=json&prop=links&redirect=1&page=" + userSearch;
+            string searchLink = "https://en.wikipedia.org/w/api.php?action=parse&format=json&prop=links&redirects&page=" + userSearch;
             string path = @"DinoParse.csv";
             dynamic link = RetrieveJson(searchLink);
             string linkString = link.ToString();
