@@ -1,0 +1,15 @@
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoParse.exe
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoParse.deps.json
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoParse.runtimeconfig.json
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoParse.runtimeconfig.dev.json
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoParse.dll
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\DinoParse.pdb
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\Renny\source\repos\DinoJeff\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoParse.AssemblyInfoInputs.cache
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoParse.AssemblyInfo.cs
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoParse.csproj.CoreCompileInputs.cache
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoParse.csproj.CopyComplete
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoParse.dll
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoParse.pdb
+C:\Users\Renny\source\repos\DinoJeff\obj\Debug\netcoreapp3.1\DinoParse.genruntimeconfig.cache

@@ -16,6 +16,7 @@ namespace DinoParse
             string linkString = link.ToString();
             File.WriteAllText(path, linkString);
             Console.WriteLine(linkString);
+            Console.WriteLine("*** Results written to DinoParse.csv ***");
         }
 
         public static dynamic RetrieveJson(string input)
